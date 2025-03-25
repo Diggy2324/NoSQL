@@ -1,0 +1,26 @@
+{
+  "name": "nosql",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Diggy2324/NoSQL#readme",
+  "bugs": {
+    "url": "https://github.com/Diggy2324/NoSQL/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Diggy2324/NoSQL.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "moment": "^2.30.1",
+    "mongoose": "^8.12.2"
+  }
+}
